@@ -26,7 +26,7 @@ const HeroSection = () => {
         <div className="text-center max-w-6xl mx-auto">
           {/* Badge */}
           <div className="inline-flex items-center space-x-2 text-[#dad5f2] py-4 rounded-full">
-            <span className="text-md font-semibold">Freelance Marketing Expert</span>
+            <span className="text-md font-semibold">Freelance Multimedia Expert</span>
           </div>
 
           {/* Main Title */}
@@ -41,7 +41,7 @@ const HeroSection = () => {
 
           {/* Description */}
           <p className="text-gray-300 text-lg md:text-xl max-w-3xl mx-auto mb-12 leading-relaxed">
-            Hi, I'm Alex Martinez, a freelance marketing specialist helping businesses grow through data-driven strategies and creative campaigns that convert.
+            Hi, I'm Luizinho Neto, a freelance marketing specialist helping businesses grow through data-driven strategies and creative campaigns that convert.
           </p>
 
           {/* CTA Button */}

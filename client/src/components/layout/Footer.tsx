@@ -11,7 +11,7 @@ const Footer = () => {
               <div className="w-10 h-10 bg-accent-green rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-xl">A</span>
               </div>
-              <span className="text-white font-bold text-xl">ALEX MARTINEZ</span>
+              <span className="text-white font-bold text-xl">looizinho</span>
             </div>
             <p className="text-gray-400 leading-relaxed max-w-md">
               Freelance marketing specialist helping businesses grow through data-driven strategies and creative campaigns.
@@ -43,9 +43,9 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © 2024 Alex Martinez. All rights reserved.
+            © 2024 Luizinho Neto. All rights reserved.
           </p>
-          <div className="flex space-x-6 mt-4 md:mt-0">
+          <div className="flex space-x-6L mt-4 md:mt-0">
             <a href="#" className="text-gray-400 hover:text-accent-green transition-colors duration-300 text-sm">
               Privacy Policy
             </a>
